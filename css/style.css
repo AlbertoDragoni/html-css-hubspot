@@ -40,17 +40,25 @@ li {
     list-style: none;
     margin-right: 35px;
 }
-
-
-
-
-
-
-
+/* seconda row */
 .second-row-fullwidht {
     height: 80px;
     background-color: #425b76;
 }
+.promo {
+    margin: 0 auto;
+    height: 80px;
+    width: 1080px;
+    max-width: 1200px;
+}
+.promo-bar p {
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 16px;
+}
+
+
+/* terza row */
 .third-row-fullwidht {
     /* da rimuovere */
     height: 690px;
