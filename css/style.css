@@ -142,6 +142,13 @@ li {
     margin-top: 50px;
     height: 250px;
     background-color: white;
+    position: relative;
+}
+.second-sx {
+    position: absolute; left: 250px;
+}
+.second-dx {
+    position: absolute; right: 80px;
 }
 .second-sx img {
     width: 154px;
@@ -164,12 +171,24 @@ li {
     font-size: 25px;
     font-family: 'Alata', sans-serif;
     color: #33475b;
+    margin-bottom: 18px;
+}
+.everything {
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+    color: #33475b;
+    margin-bottom: 18px;
 }
 .popularfeat {
     color: #33475b;
     font-size: 18px;
+    margin-bottom: 18px;
 }
-.insights1 .checkmark {
+.insights {
+    margin-right: 10px;
+    display: inline-block;
+}
+.insights .checkmark {
     padding: 4px;
     font-size: 16px;
     color: white;
@@ -178,7 +197,7 @@ li {
     background-color: #ff7a59;
     display: inline-block;
 }
-.insights1 p {
+.insights p {
     margin-left: 8px;
     font-size: 15px;
     font-family: 'Alata', sans-serif;
