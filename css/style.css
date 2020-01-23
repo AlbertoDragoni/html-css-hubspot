@@ -233,4 +233,21 @@ li {
 #contentlogo1, #contentlogo2, #contentlogo3 {
     width: 233px;
     height: 150px;
+    margin-left: 40px;
+}
+.titolo-markhub {
+    text-align: center;
+margin-bottom: 15px;
+}
+
+.mark-hub h3 {
+    font-size: 26px;
+    color: #33475b;
+    font-family: 'Alata', sans-serif;
+}
+.mark-hub p {
+    margin-left: 28px;
+    font-family: 'Alata', sans-serif;
+    font-size: 16px;
+    color: #33475b;
 }
