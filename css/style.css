@@ -121,6 +121,7 @@ li {
     height: 800px;
     background-color: #fff3ee;
 }
+/* quarta row first-section */
 .first-section {
     padding-top: 60px;
     text-align: center;
@@ -135,4 +136,27 @@ li {
 .powerful-paragraph {
     margin-top: 10px;
     color: #33475b;
+}
+/* quarta row second-section */
+.container-second-section {
+    margin-top: 50px;
+    height: 250px;
+    background-color: white;
+}
+.second-sx img {
+    width: 154px;
+    height: 152px;
+}
+.crm {
+    margin-left: 20px;
+}
+.crm a {
+    text-decoration: none;
+    font-family: 'Alata', sans-serif;
+    font-size: 12px;
+    padding: 10px 18px;
+    color: white;
+    border: 1px solid #ff7a59;
+    background-color: #ff7a59;
+    border-radius: 5px;
 }
