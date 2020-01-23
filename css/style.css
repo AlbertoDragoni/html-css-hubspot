@@ -51,12 +51,31 @@ li {
     width: 1080px;
     max-width: 1200px;
 }
+.promo-bar {
+    float: left;
+}
+#margin {
+    margin-top: 20px;
+}
 .promo-bar p {
+    width: 910px;
     color: white;
     font-family: 'Alata', sans-serif;
     font-size: 16px;
 }
-
+.learn-more {
+    float: left;
+}
+.learn-more a {
+    text-decoration: none;
+    font-family: 'Alata', sans-serif;
+    font-size: 12px;
+    padding: 8px 16px;
+    color: #425b76;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
 
 /* terza row */
 .third-row-fullwidht {
