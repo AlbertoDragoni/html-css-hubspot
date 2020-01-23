@@ -160,3 +160,28 @@ li {
     background-color: #ff7a59;
     border-radius: 5px;
 }
+.free-hubspot {
+    font-size: 25px;
+    font-family: 'Alata', sans-serif;
+    color: #33475b;
+}
+.popularfeat {
+    color: #33475b;
+    font-size: 18px;
+}
+.insights1 .checkmark {
+    padding: 4px;
+    font-size: 16px;
+    color: white;
+    border: 2px solid #ff7a59;
+    border-radius: 50%;
+    background-color: #ff7a59;
+    display: inline-block;
+}
+.insights1 p {
+    margin-left: 8px;
+    font-size: 15px;
+    font-family: 'Alata', sans-serif;
+    color: #33475b;
+    display: inline-block;
+}
