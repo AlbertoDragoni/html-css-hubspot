@@ -12,6 +12,41 @@
     height: 80px;
     background-color: #ffffff;
 }
+.container {
+    margin: 0 auto;
+    /* da rimuovere, forse */
+    height: 80px;
+    width: 1080px;
+    max-width: 1200px;
+}
+.prima-riga {
+    line-height: 80px;
+}
+.logo {
+    margin-left: 20px;
+    float: left;
+}
+#navbar {
+    float: right;
+}
+a {
+    color: #54475b;
+    text-decoration: none;
+}
+li {
+    display: inline;
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
+    list-style: none;
+    margin-right: 35px;
+}
+
+
+
+
+
+
+
 .second-row-fullwidht {
     height: 80px;
     background-color: #425b76;
