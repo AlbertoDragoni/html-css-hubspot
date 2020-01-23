@@ -117,7 +117,6 @@ li {
 }
 /* quarta row */
 .fourth-row-fullwidht {
-
     background-color: #fff3ee;
 }
 /* quarta row first-section */
@@ -204,19 +203,30 @@ li {
     display: inline-block;
 }
 /* quarta row third section */
+.third-section {
+    margin-top: 30px;
+}
 .prima-finestra {
     width: 33.33%;
     height: 600px;
-    border: 1px solid black;
+    float: left;
+    background-color: #fff3ee;
+    padding-right: 15px;
 }
 .seconda-finestra {
     width: 33.33%;
     height: 600px;
-    border: 1px solid black;
+    float: left;
+    background-color: #fff3ee;
 }
-
 .terza-finestra {
     width: 33.33%;
     height: 600px;
-    border: 1px solid black;
+    float: left;
+    padding-left: 15px;
+    background-color: #fff3ee;
+}
+.content {
+    height: 100%;
+    background-color: white;
 }
