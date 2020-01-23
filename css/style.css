@@ -14,10 +14,9 @@
 }
 .container {
     margin: 0 auto;
-    /* da rimuovere, forse */
-    height: 80px;
     width: 1080px;
     max-width: 1200px;
+    position: relative;
 }
 .prima-riga {
     line-height: 80px;
@@ -76,16 +75,64 @@ li {
     background-color: white;
     border-radius: 5px;
 }
-
 /* terza row */
 .third-row-fullwidht {
     /* da rimuovere */
-    height: 690px;
+    height: 600px;
     background-color: #fff3ee;
     border-bottom: 2px solid #435466;
 }
+.banner {
+    position: absolute; top: 80px;
+}
+.jumbotron h1 {
+    font-family: 'Alata', sans-serif;
+    font-size: 45px;
+    color: #33475b;
+}
+.banner p {
+    font-family: 'Alata', sans-serif;
+    font-size: 12px;
+    color: #33475b;
+    font-weight: lighter;
+}
+.for-free {
+    margin-top: 40px;
+}
+.for-free a {
+    text-decoration: none;
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+    padding: 20px 34px;
+    color: white;
+    border: 1px solid #ff7a59;
+    background-color: #ff7a59;
+    border-radius: 5px;
+}
+.marketing {
+    margin-top: 25px;
+}
+.free-tools {
+    margin-top: 38px;
+}
+/* quarta row */
 .fourth-row-fullwidht {
     /* da rimuovere */
     height: 800px;
     background-color: #fff3ee;
+}
+.first-section {
+    padding-top: 60px;
+    text-align: center;
+}
+.cubes img {
+    width: 260px;
+    height: 195px;
+}
+.powerful-alone h2 {
+    color: #33475b;
+}
+.powerful-paragraph {
+    margin-top: 10px;
+    color: #33475b;
 }
