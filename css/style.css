@@ -8,3 +8,22 @@
     display: table;
     clear: both;
 }
+.first-row-fullwidht {
+    height: 80px;
+    background-color: #ffffff;
+}
+.second-row-fullwidht {
+    height: 80px;
+    background-color: #425b76;
+}
+.third-row-fullwidht {
+    /* da rimuovere */
+    height: 690px;
+    background-color: #fff3ee;
+    border-bottom: 2px solid #435466;
+}
+.fourth-row-fullwidht {
+    /* da rimuovere */
+    height: 800px;
+    background-color: #fff3ee;
+}
