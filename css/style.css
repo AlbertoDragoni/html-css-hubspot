@@ -117,8 +117,7 @@ li {
 }
 /* quarta row */
 .fourth-row-fullwidht {
-    /* da rimuovere */
-    height: 800px;
+
     background-color: #fff3ee;
 }
 /* quarta row first-section */
@@ -203,4 +202,21 @@ li {
     font-family: 'Alata', sans-serif;
     color: #33475b;
     display: inline-block;
+}
+/* quarta row third section */
+.prima-finestra {
+    width: 33.33%;
+    height: 600px;
+    border: 1px solid black;
+}
+.seconda-finestra {
+    width: 33.33%;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.terza-finestra {
+    width: 33.33%;
+    height: 600px;
+    border: 1px solid black;
 }
