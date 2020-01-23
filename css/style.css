@@ -211,7 +211,7 @@ li {
     height: 600px;
     float: left;
     background-color: #fff3ee;
-    padding-right: 15px;
+    padding-right: 25px;
 }
 .seconda-finestra {
     width: 33.33%;
@@ -223,10 +223,14 @@ li {
     width: 33.33%;
     height: 600px;
     float: left;
-    padding-left: 15px;
+    padding-left: 25px;
     background-color: #fff3ee;
 }
 .content {
     height: 100%;
     background-color: white;
+}
+#contentlogo1, #contentlogo2, #contentlogo3 {
+    width: 233px;
+    height: 150px;
 }
