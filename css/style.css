@@ -206,6 +206,7 @@ li {
 /* quarta row third section */
 .third-section {
     margin-top: 30px;
+    margin-bottom: 130px;
 }
 .prima-finestra {
     width: 33.33%;
@@ -328,4 +329,30 @@ li {
     border: 1px solid #ff7a59;
     background-color: #ff7a59;
     border-radius: 5px;
+}
+/* quinta row */
+.fifth-row {
+    height: 600px;
+    background-color: #00acb5;
+    border-bottom: 2px solid #435466;
+}
+.prima-sezione {
+    width: 900px;
+    position: absolute; left: 70px; top: 100px;
+}
+.title-learn, .subtitle-learn {
+    text-align: center;
+}
+.title-learn h2 {
+    font-family: 'Alata', sans-serif;
+    color: white;
+    font-size: 40px;
+}
+.subtitle-learn {
+    margin-top: 25px;
+}
+.subtitle-learn p {
+    font-family: 'Alata', sans-serif;
+    color: white;
+    font-size: 18px;
 }
