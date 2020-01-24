@@ -334,7 +334,6 @@ li {
 .fifth-row {
     background-color: #00acb5;
     padding-bottom: 100px;
-    border-bottom: 2px solid #435466;
 }
 .prima-sezione {
     width: 900px;
@@ -501,4 +500,30 @@ li {
 }
 .insides8 {
     margin-top: 60px;
+}
+/* sesta row */
+.sixth-row {
+    /* da rimuovere */
+    height: 800px;
+    background-color: #ffffff;
+    padding-bottom: 100px;
+    border-bottom: 2px solid #435466;
+}
+.sixsx h2 {
+    color: #33475b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+.sotto68 {
+    margin-top: 15px;
+    line-height: 40px;
+    color: #33475b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+.logocard-primaup {
+    width: 145px;
+    height: 180px;
+    border: 1px solid black;
+    float: right;
 }
