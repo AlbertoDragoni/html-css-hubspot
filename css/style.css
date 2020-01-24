@@ -284,3 +284,13 @@ li {
     font-size: 16px;
     color: #33475b;
 }
+.mark-hub hr, .sales-hub hr, .service-hub hr {
+    width: 80%;
+    margin: 35px auto;
+    color: #ecf0f4;
+}
+.popfeat {
+    text-align: center;
+    color: #33475b;
+    font-size: 18px;
+}
