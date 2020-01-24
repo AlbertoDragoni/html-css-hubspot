@@ -286,11 +286,32 @@ li {
 }
 .mark-hub hr, .sales-hub hr, .service-hub hr {
     width: 80%;
-    margin: 35px auto;
+    margin: 30px auto;
     color: #ecf0f4;
 }
 .popfeat {
     text-align: center;
     color: #33475b;
     font-size: 18px;
+    margin-bottom: 30px;
+}
+.second-insights {
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+.second-insights .check {
+    padding: 4px;
+    font-size: 16px;
+    color: white;
+    border: 2px solid #ff7a59;
+    border-radius: 50%;
+    background-color: #ff7a59;
+    display: inline;
+}
+.second-insights p {
+    margin-left: 8px;
+    font-size: 15px;
+    font-family: 'Alata', sans-serif;
+    color: #33475b;
+    display: inline;
 }
