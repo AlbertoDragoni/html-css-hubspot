@@ -315,3 +315,17 @@ li {
     color: #33475b;
     display: inline;
 }
+.getstarted {
+    text-align: center;
+    margin-top: 50px;
+}
+.getstarted a {
+    text-decoration: none;
+    font-family: 'Alata', sans-serif;
+    font-size: 14px;
+    padding: 12px 22px;
+    color: white;
+    border: 1px solid #ff7a59;
+    background-color: #ff7a59;
+    border-radius: 5px;
+}
