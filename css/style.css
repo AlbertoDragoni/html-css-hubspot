@@ -509,6 +509,12 @@ li {
     padding-bottom: 100px;
     border-bottom: 2px solid #435466;
 }
+.prima-stringa {
+    position: relative;
+}
+.sixsx {
+    position: absolute;
+}
 .sixsx h2 {
     color: #33475b;
     font-family: 'Roboto', sans-serif;
@@ -521,9 +527,39 @@ li {
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
 }
-.logocard-primaup {
+.logocard-primaup, .logocard-secondaup, .logocard-terzaup, .logocard-quartaup {
     width: 145px;
     height: 180px;
     border: 1px solid black;
     float: right;
+}
+.logocard-primadown, .logocard-secondadown, .logocard-terzadown, .logocard-quartadown {
+    width: 145px;
+    height: 180px;
+    border: 1px solid black;
+    float: right;
+}
+#purple {
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 130px;
+    height: 43px;
+}
+#crowd {
+    margin-top: 82px;
+    margin-left: 10px;
+    width: 130px;
+    height: 40px;
+}
+#dash {
+    margin-top: 90px;
+    margin-left: 10px;
+    width: 130px;
+    height: 20px;
+}
+#atlas {
+    margin-top: 92px;
+    margin-left: 10px;
+    width: 130px;
+    height: 18px;
 }
