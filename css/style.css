@@ -356,7 +356,7 @@ li {
     font-size: 18px;
 }
 .seconda-sezione {
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .primobluup, .secondobluup, .terzobluup, .quartobluup {
     width: 25%;
@@ -366,7 +366,133 @@ li {
 }
 .primobludown, .secondobludown, .terzobludown, .quartobludown {
     width: 25%;
-    height: 250px;
+    height: 300px;
     border: 1px solid white;
     float: left;
+}
+.primobluup {
+    text-align: center;
+}
+.secondobluup {
+    text-align: center;
+}
+.terzobluup {
+    text-align: center;
+}
+.quartobluup {
+    text-align: center;
+}
+.primobludown {
+    text-align: center;
+}
+.secondobludown {
+    text-align: center;
+}
+.terzobludown {
+    text-align: center;
+}
+.quartobludown {
+    text-align: center;
+}
+.insides1 {
+    margin-top: 80px;
+}
+#handshake {
+    width: 44px;
+    height: 33px;
+}
+.numerone {
+    font-size: 50px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.primobluup p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+#blogs {
+    width: 80px;
+    height: 53px;
+}
+.secondobluup p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides2 {
+    margin-top: 64px;
+}
+#academy {
+    width: 127px;
+    height: 53px;
+}
+.terzobluup p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides3 {
+    margin-top: 65px;
+}
+#inbound {
+    width: 127px;
+    height: 53px;
+}
+.quartobluup p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides4 {
+    margin-top: 65px;
+}
+#connect {
+    width: 80px;
+    height: 53px;
+}
+.primobludown p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides5 {
+    margin-top: 65px;
+}
+#globe {
+    width: 60px;
+    height: 38px;
+}
+.secondobludown p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides6 {
+    margin-top: 75px;
+}
+#parrot {
+    width: 80px;
+    height: 53px;
+}
+.terzobludown p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides7 {
+    margin-top: 60px;
+}
+#growth {
+    width: 100px;
+    height: 53px;
+}
+.quartobludown p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.insides8 {
+    margin-top: 60px;
 }
