@@ -513,7 +513,7 @@ li {
     position: relative;
 }
 .sixsx {
-    position: absolute;
+    position: absolute; top: 70px;
 }
 .sixsx h2 {
     color: #33475b;
@@ -528,16 +528,17 @@ li {
     font-size: 25px;
 }
 .logocard-primaup, .logocard-secondaup, .logocard-terzaup, .logocard-quartaup {
-    width: 145px;
+    width: 180px;
     height: 180px;
-    border: 1px solid black;
     float: right;
 }
 .logocard-primadown, .logocard-secondadown, .logocard-terzadown, .logocard-quartadown {
-    width: 145px;
+    width: 180px;
     height: 180px;
-    border: 1px solid black;
     float: right;
+}
+.rigaunologo {
+    margin-top: 100px;
 }
 #purple {
     margin-top: 80px;
@@ -562,4 +563,28 @@ li {
     margin-left: 10px;
     width: 130px;
     height: 18px;
+}
+#ware {
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 130px;
+    height: 30px;
+}
+#classpass {
+    margin-top: 24px;
+    margin-left: 10px;
+    width: 130px;
+    height: 48px;
+}
+#wistia{
+    margin-top: 34px;
+    margin-left: 10px;
+    width: 130px;
+    height: 22px;
+}
+#subaru{
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 130px;
+    height: 44px;
 }
