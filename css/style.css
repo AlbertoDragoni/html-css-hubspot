@@ -333,6 +333,7 @@ li {
 /* quinta row */
 .fifth-row {
     background-color: #00acb5;
+    padding-bottom: 100px;
     border-bottom: 2px solid #435466;
 }
 .prima-sezione {
@@ -360,36 +361,41 @@ li {
 }
 .primobluup, .secondobluup, .terzobluup, .quartobluup {
     width: 25%;
-    height: 300px;
-    border: 1px solid white;
+    height:280px;
     float: left;
 }
 .primobludown, .secondobludown, .terzobludown, .quartobludown {
     width: 25%;
-    height: 300px;
-    border: 1px solid white;
+    height: 280px;
+    border-top: 1px solid white;
     float: left;
 }
 .primobluup {
     text-align: center;
+    border-right: 1px solid white;
 }
 .secondobluup {
     text-align: center;
+    border-right: 1px solid white;
 }
 .terzobluup {
     text-align: center;
+    border-right: 1px solid white;
 }
 .quartobluup {
     text-align: center;
 }
 .primobludown {
     text-align: center;
+    border-right: 1px solid white;
 }
 .secondobludown {
     text-align: center;
+    border-right: 1px solid white;
 }
 .terzobludown {
     text-align: center;
+    border-right: 1px solid white;
 }
 .quartobludown {
     text-align: center;
