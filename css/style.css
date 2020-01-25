@@ -646,3 +646,74 @@ position: absolute; top: 80px;
     width: 350px;
     height: 425px;
 }
+/* last row */
+.last-row {
+    height: 800px;
+    background-color: #33475b;
+}
+.colonnauno, .colonnadue, .colonnatre, .colonnaquattro {
+    width: 25%;
+    height: 500px;
+    float: left;
+    border: 1px solid black;
+    margin-top: 100px;
+}
+.colonnauno a {
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 18px;
+}
+.colonnauno p {
+    font-family: 'Alata', sans-serif;
+    line-height: 50px;
+    font-size: 17px;
+    color: #cbd6e2;
+}
+.colonnadue a {
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 18px;
+}
+.colonnadue p {
+    font-family: 'Alata', sans-serif;
+    line-height: 50px;
+    font-size: 17px;
+    color: #cbd6e2;
+}
+.colonnatre a {
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 18px;
+}
+.colonnatre p {
+    font-family: 'Alata', sans-serif;
+    line-height: 50px;
+    font-size: 17px;
+    color: #cbd6e2;
+}
+.colonnaquattro a {
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-size: 18px;
+}
+.colonnaquattro p  {
+    font-family: 'Alata', sans-serif;
+    line-height: 50px;
+    font-size: 17px;
+    color: #cbd6e2;
+}
+#boca {
+    color: white;
+}
+.support {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 7px 15px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5%;
+}
+.support a {
+    font-size: 14px;
+    color: #33475b;
+}
