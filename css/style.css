@@ -717,3 +717,9 @@ position: absolute; top: 80px;
     font-size: 14px;
     color: #33475b;
 }
+
+.fontawesome-icons i {
+    padding-right: 20px;
+    color: #cbd6e2;
+    font-size: 25px;
+}
