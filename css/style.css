@@ -88,14 +88,18 @@ li {
 }
 .jumbotron h1 {
     font-family: 'Alata', sans-serif;
-    font-size: 45px;
+    font-size: 55px;
     color: #33475b;
 }
 .banner p {
     font-family: 'Alata', sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     color: #33475b;
     font-weight: lighter;
+}
+.free-tools p {
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
 }
 .for-free {
     margin-top: 40px;
@@ -130,11 +134,17 @@ li {
     height: 195px;
 }
 .powerful-alone h2 {
+    font-family: 'Alata', sans-serif;
+    font-size: 40px;
+    color: #33475b;
+}
+.powerful-paragraph p {
+    font-family: 'Alata', sans-serif;
+    font-size: 17px;
     color: #33475b;
 }
 .powerful-paragraph {
     margin-top: 10px;
-    color: #33475b;
 }
 /* quarta row second-section */
 .container-second-section {
@@ -172,9 +182,9 @@ li {
     color: #33475b;
     margin-bottom: 18px;
 }
-.everything {
+.everything p {
     font-family: 'Alata', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: #33475b;
     margin-bottom: 18px;
 }
@@ -504,11 +514,12 @@ li {
 /* sesta row */
 .sixth-row {
     /* da rimuovere */
-    height: 800px;
+    height: 1000px;
     background-color: #ffffff;
     padding-bottom: 100px;
     border-bottom: 2px solid #435466;
 }
+/* primastringa sixth */
 .prima-stringa {
     position: relative;
 }
@@ -587,4 +598,51 @@ li {
     margin-left: 10px;
     width: 130px;
     height: 44px;
+}
+/* second stringa sixth */
+.seconda-stringa {
+    position: relative;
+}
+.banner-down {
+position: absolute; top: 80px;
+}
+.jumbotrondown {
+    font-family: 'Alata', sans-serif;
+    font-size: 24px;
+    color: #33475b;
+}
+.banner-down p {
+    font-family: 'Alata', sans-serif;
+    font-size: 18px;
+    color: #33475b;
+    font-weight: lighter;
+}
+.for-freedown {
+    margin-top: 50px;
+    display: inline-block;
+}
+.for-freedown a {
+    text-decoration: none;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    padding: 24px 40px;
+    color: white;
+    border: 1px solid #ff7a59;
+    background-color: #ff7a59;
+    border-radius: 5px;
+}
+.free-toolsdown {
+    margin-top: 50px;
+}
+.free-toolsdown p {
+    font-family: 'Alata', sans-serif;
+    font-size: 13px;
+    color: #33475b;
+}
+.immagine-tipa {
+    position: absolute; right: 0px;
+}
+.immagine-tipa img {
+    width: 350px;
+    height: 425px;
 }
