@@ -648,14 +648,13 @@ position: absolute; top: 80px;
 }
 /* last row */
 .last-row {
-    height: 800px;
+    height: 900px;
     background-color: #33475b;
 }
 .colonnauno, .colonnadue, .colonnatre, .colonnaquattro {
     width: 25%;
     height: 500px;
     float: left;
-    border: 1px solid black;
     margin-top: 100px;
 }
 .colonnauno a {
@@ -717,9 +716,47 @@ position: absolute; top: 80px;
     font-size: 14px;
     color: #33475b;
 }
-
+.fontawesome-icons {
+    margin-top: 15px;
+}
 .fontawesome-icons i {
-    padding-right: 20px;
+    margin-top: 10px;
+    padding-right: 18px;
     color: #cbd6e2;
     font-size: 25px;
+}
+.lingue ul {
+    display: inline;
+}
+.lingue {
+    text-align: center;
+}
+.lingue a {
+    color: #cbd6e2;
+    font-size: 22px;
+    text-align: center;
+}
+.last-contacts hr {
+    margin-top: 70px;
+    color: #cbd6e2;
+}
+.last-line1 {
+    position: relative;
+}
+.lastlogo {
+    margin-top: 40px;
+}
+#lastlogo {
+    width: 120px;
+    height: 35px;
+    color: #cbd6e2;
+}
+.lastlinks {
+    position: absolute; bottom: 20px; right: 0px;
+}
+.lastlinks a {
+    padding-left: 30px;
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+    color: #cbd6e2;
 }
