@@ -775,6 +775,7 @@ position: absolute; top: 80px;
     height: 80px;
     background-color: #fff3ee;
     z-index: 22;
+    border-bottom: 1px solid #00acb5;
 }
 .partesinistra {
     padding-top: 20px;
