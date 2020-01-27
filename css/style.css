@@ -89,7 +89,7 @@ li {
 }
 .jumbotron h1 {
     font-family: 'Alata', sans-serif;
-    font-size: 55px;
+    font-size: 65px;
     color: #33475b;
 }
 .banner p {
@@ -219,6 +219,9 @@ li {
     margin-top: 30px;
     margin-bottom: 130px;
 }
+.prima-finestra:hover {
+    transform: scale(104%);
+}
 .prima-finestra {
     width: 33.33%;
     height: 600px;
@@ -226,11 +229,17 @@ li {
     background-color: #fff3ee;
     padding-right: 25px;
 }
+.seconda-finestra:hover {
+    transform: scale(104%);
+}
 .seconda-finestra {
     width: 33.33%;
     height: 600px;
     float: left;
     background-color: #fff3ee;
+}
+.terza-finestra:hover {
+    transform: scale(104%);
 }
 .terza-finestra {
     width: 33.33%;
